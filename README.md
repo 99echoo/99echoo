@@ -1,6 +1,3 @@
 ### Hi there 👋
-- 영문 소개서
-- 한글 소개서
 
-- 자격증
-- 
+Bussiness Analysis at University 
