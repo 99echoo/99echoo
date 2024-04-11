@@ -1,4 +1,4 @@
-## 데이터 분석가를 희망하는 학생입니다.
+## Data Analysis, ML 공부하는 대학생입니다.
 
 ### Main Field of Study
 ---
