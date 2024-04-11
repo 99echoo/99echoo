@@ -2,7 +2,7 @@
 
 ### Main Field of Study
 ---
-- **Bussiness Analysis**
+- **Bussiness Analytics**
 
 ### Interests
 ---
