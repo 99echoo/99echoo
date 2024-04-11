@@ -1,4 +1,4 @@
-## Data Analysis, ML 공부하는 대학생입니다.
+## Data Analysis, ML 공부하는 대학생
 
 ### Main Field of Study
 ---
