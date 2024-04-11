@@ -2,8 +2,8 @@
 
 ### 🌐 Interests
 ---
-- **Market Analysis:** 
-- **Visualization:** 
+- **Market Analysis** 
+- **Visualization** 
 
 ### 💻 Languages
 ---
