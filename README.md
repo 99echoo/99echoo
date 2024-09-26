@@ -1,7 +1,5 @@
 # 🌟 Hi! I'm Dong Hyun! 🌟
----
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=99echoo&layout=compact&theme=dracula)
 
 ### 💻 Tech Stacks
 ---
@@ -36,3 +34,6 @@
 - **SQLD (SQL Developer)**
 - **ADSP (Data Analysis Semi-Professional)**
 - **AICE (AI Certificate for Everyone)**
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=99echoo&layout=compact&theme=dracula)
