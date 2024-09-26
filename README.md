@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Hi%20!%20I'm%20Dong%20hyun%20!&fontAlign=70&stroke=00FF00&strokeWidth=3)
+# 🌟 Hi! I'm Dong Hyun! 🌟
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=99echoo&layout=compact&theme=dracula)
